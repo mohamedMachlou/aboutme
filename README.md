@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmachlou" alt="mohamedmachlou" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/machloumohamed" target="blank"><img src="https://img.shields.io/twitter/follow/machloumohamed?logo=twitter&style=for-the-badge" alt="machloumohamed" /></a> </p>
+<p align="left"> <a href="https://instagram.com/machloumohamed" target="blank"><img src="https://img.shields.io/twitter/follow/machloumohamed?logo=twitter&style=for-the-badge" alt="machloumohamed" /></a> </p>
 
 - 🔭 I’m currently working on **Medicaly**
 
