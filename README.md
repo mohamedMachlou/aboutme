@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed MACHLOU</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmachlou&show_icons=true&locale=en&layout=compact" alt="mohamedmachlou" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmachlou&show_icons=true&locale=en" alt="mohamedmachlou" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmachlou&show_icons=true&locale=en&layout=compact" alt="mohamedmachlou" /></p> </br>
+ </br>
 
 
 
